@@ -1,9 +1,3 @@
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-а это че?
-```C++
-int main() {
-    return 0;
-}
-```
+# Занятия по C++
+1. [19.10.20](19.10.20.md)
+2. а фсё
