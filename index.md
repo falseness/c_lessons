@@ -24,3 +24,8 @@
 22. [03.05.21](03.05.21.md)
 23. а фсё
 
+Первоисточник
+
+1 семестр (первые очные лекции не выложены. первые выложенные лекции не законспектированы) - https://www.youtube.com/playlist?list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h
+
+2 семестр - https://www.youtube.com/playlist?list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra
